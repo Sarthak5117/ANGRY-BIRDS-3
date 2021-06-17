@@ -1,2 +1,2 @@
-# ANGRY-BIRDS-3
-TP
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
